@@ -13,14 +13,14 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prasenjeet066&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjeet066&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=prasenjeet066&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjeet066&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150"/>
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasenjeet066&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasenjeet066&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ## 👨‍💻 About Me
@@ -76,8 +76,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=prasenjeet066&repo=project1&theme=radical&hide_border=true)](https://github.com/prasenjeet066/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=prasenjeet066&repo=project2&theme=radical&hide_border=true)](https://github.com/prasenjeet066/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=prasenjeet066&repo=project1&theme=transparent&hide_border=true)](https://github.com/prasenjeet066/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=prasenjeet066&repo=project2&theme=transparent&hide_border=true)](https://github.com/prasenjeet066/project2)
 
 </div>
 
